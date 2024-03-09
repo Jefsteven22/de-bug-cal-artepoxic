@@ -3,13 +3,13 @@
 
 @font-face {
   font-family: "Stealdream";
-  src: url("./fonts/Stealdream.ttf");
+  src: url("/fonts/Stealdream.ttf");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "century";
-  src: url("./fonts/nu_century_gothic.ttf");
+  src: url("/fonts/nu_century_gothic.ttf");
   font-weight: normal;
   font-style: normal;
 }
